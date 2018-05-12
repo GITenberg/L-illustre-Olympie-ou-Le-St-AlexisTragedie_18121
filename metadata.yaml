@@ -1,0 +1,31 @@
+_repo: L-illustre-Olympie-ou-Le-St-AlexisTragedie_18121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Desfontaines, Nicolas-Marc
+    aliases:
+    - Desfontaines, Nicolas Mary
+    - Mary, Nicolas
+    deathdate: 1652
+    gutenberg_agent_id: '7714'
+    url: http://www.gutenberg.org/2009/agents/7714
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18121'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+title: 'L''illustre Olympie, ou Le St Alexis
+
+  Tragedie'
+url: http://www.gutenberg.org/ebooks/18121
